@@ -1,4 +1,4 @@
-# Identifikasi Motif Batik Menggunakan Foto
+# Batik Pattern Recognition Through Image
 `(Bagian Data & Model Machine Learning)`
 
 Proyek ini merupakan proyek bersama yang bertujuan untuk mengidentifikasi motif batik berdasarkan foto. Aplikasi akan dijalankan pada Android menggunakan Kotlin, sedangkan bagian yang saya kerjakan berfokus pada pengolahan data dan pembuatan model Machine Learning.
